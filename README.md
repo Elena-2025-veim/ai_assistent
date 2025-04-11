@@ -5,8 +5,9 @@
 
 Ссылка на проект - t.me/oknarodnye_bot
 
+![скриншот 1](https://github.com/user-attachments/assets/f898fe2c-4eea-4c15-a29a-e8d3f6f505d5)
 
-![Телеграм](https://github.com/user-attachments/assets/548e97e2-9f01-44a9-86aa-45ff104cb0db)
+   
 
 ## Содержание
 
