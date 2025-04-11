@@ -5,11 +5,9 @@
 
 Ссылка на проект - t.me/oknarodnye_bot
 
-![скриншот 1](https://github.com/user-attachments/assets/f898fe2c-4eea-4c15-a29a-e8d3f6f505d5)
+![скриншот 1](https://github.com/Elena-2025-veim/ai_assistent/blob/main/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC.jpg?raw=true)
 
-   
-
-## Содержание
+   ## Содержание
 
 - [Описание](#описание)
 - [Функционал](#функционал)
