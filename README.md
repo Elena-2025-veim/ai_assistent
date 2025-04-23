@@ -5,7 +5,7 @@
 
 Ссылка на проект -
 
-![Скриншот 1](https://github.com/Elena-2025-veim/ai_assistent/blob/main/57e5275ae9.jpg?raw=true)
+[Скриншот 1](https://github.com/Elena-2025-veim/ai_assistent/blob/main/57e5275ae9.jpg?raw=true)
 
  ## Содержание
 
